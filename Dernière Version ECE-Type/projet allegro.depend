@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1428857497 source:c:\users\david\dropbox\projet allegro\gaudin rowe tagliero\maj-15h\asteroides.c
+
+1428860858 source:c:\users\david\dropbox\projet allegro\gaudin rowe tagliero\maj-15h\fonctions_de_base.c
+	"header.h"
+
+1428862580 c:\users\david\dropbox\projet allegro\gaudin rowe tagliero\maj-15h\header.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	<math.h>
+
+1428857497 source:c:\users\david\dropbox\projet allegro\gaudin rowe tagliero\maj-15h\main.c
+
+1428876717 source:c:\users\david\dropbox\projet allegro\gaudin rowe tagliero\maj-15h\menu.c
+	"header.h"
+
+1428876478 source:c:\users\david\dropbox\projet allegro\gaudin rowe tagliero\maj-15h\scrolling.c
+	"header.h"
+
+1428853898 source:c:\users\hugo tag\google drive\gaudin rowe tagliero\asteroides.c
+
+1428857260 source:c:\users\hugo tag\google drive\gaudin rowe tagliero\fonctions_de_base.c
+	"header.h"
+
+1428858982 c:\users\hugo tag\google drive\gaudin rowe tagliero\header.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	<math.h>
+
+1428875714 source:c:\users\hugo tag\google drive\gaudin rowe tagliero\jeu.c
+	"header.h"
+
+1428853898 source:c:\users\hugo tag\google drive\gaudin rowe tagliero\main.c
+
+1428873118 source:c:\users\hugo tag\google drive\gaudin rowe tagliero\menu.c
+	"header.h"
+
+1428872880 source:c:\users\hugo tag\google drive\gaudin rowe tagliero\scrolling.c
+	"header.h"
+
